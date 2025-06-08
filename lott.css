@@ -1,0 +1,41 @@
+.gg{
+    text-align: center;
+}
+#gifts{
+    text-align: center;
+}
+.h{
+    padding-left: 50px;
+    padding-right: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: yellow; 
+}
+.h:hover{
+    background-color: black;
+    color: white;
+}
+.sf{
+    height: 50px;
+    width: 160px;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    background-color: rgb(10, 158, 233);
+}
+.pandu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.winnigbox{
+    background-color: goldenrod;
+    color: white;
+}
+.jira{
+    border: 5px solid red;
+}
